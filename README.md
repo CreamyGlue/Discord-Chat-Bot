@@ -4,7 +4,7 @@ A bot built in python for cleaning and manging discord servers.
 ## Features
 - **!kick** - Allows you to remove members from the server.
 - **!ban** - Capable of banning members from the server.
-- **!clear** - Will remove the last 6 messages from the chat room.
+- **!clear** - Will remove the last six messages from the chat room.
 - **!ping** - Will grab the ping of the bots connection and display it in the chat room.
 - **!inspireMe** - If you're ever feeling down or just need some words of wisdom.
 
@@ -29,7 +29,7 @@ Make sure you have gone through the process of installing the following librarys
   
 **Examples of commands**
 
-!kick @user1 - will kick user1 from the server
+!kick @user1 - will kick "user1" from the server
 
-!clear - will clear the last 6 messages of the chat.
+!clear - will clear the last six messages of the chat.
 
